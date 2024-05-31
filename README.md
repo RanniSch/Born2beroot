@@ -5,6 +5,6 @@ The virtual machine was created in VirtualBox following specific instructions. A
 ![Born2beroot-00](https://github.com/RanniSch/Born2beroot/assets/104382315/2987f5f4-c9b7-4686-8e13-83b4e35c45b8)
 
 ![Born2beroot-01](https://github.com/RanniSch/Born2beroot/assets/104382315/2cfccec5-864e-4cf7-bf5f-fda08bcae438) 
-<br>
-The monitoring.sh script was mandatory to implement. It is written in bash and displays various information. <br> <br>
+<br><br>
+The monitoring.sh script was mandatory to implement. It is written in bash and displays various information. <br>
 To pass this project, it was mandatory to submit a signature.txt file containing the signature of the machine's virtual disc.
